@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">MultilingualApp</string>
+    <string name="app_name" translatable="false">MultilingualApp</string>
+    <string name="subscribe_to_sagar_malhotra">Subscribe to Sagar Malhotra</string>
+    <string name="en" translatable="false">English</string>
+    <string name="hi" translatable="false">हिन्दी</string>
+    <string name="gu" translatable="false">ગુજરાતી</string>
+    <string name="ar" translatable="false">العربية</string>
+    <string name="language">English</string>
 </resources>
